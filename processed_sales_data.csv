@@ -1,0 +1,7 @@
+OrderID,ProductID,ProductName,OrderDate,Quantity,UnitPrice,TotalPrice
+103,3,Product c,3/4/2024,30.0,70.0,2100
+104,4,Product d,4/4/2024,50.0,90.0,4500
+105,5,Product e,5/4/2024,60.0,10.0,600
+106,6,Product f,1/4/2024,10.0,50.0,500
+107,7,Product g,2/4/2024,20.0,60.0,1200
+108,8,Product h,3/4/2024,30.0,70.0,2100

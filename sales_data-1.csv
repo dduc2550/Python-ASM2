@@ -1,0 +1,8 @@
+OrderID,ProductID,ProductName,OrderDate,Quantity,UnitPrice,TotalPrice
+101,1,Product A,1/4/2024,110,50,500
+102,2,PrOduct b,2/4/2024,,,1200
+103,3,proDuct c,3/4/2024,30,70,2100
+104,4,Product D,4/4/2024,50,90,4500
+105,5,PrOduct E,5/4/2024,60,10,600
+103,3,proDuct c,3/4/2024,30,70,2100
+104,4,Product D,4/4/2024,50,90,4500
